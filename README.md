@@ -1,4 +1,4 @@
-### Workshops 
+### WORKSHOPS 
 ### FIRST WORKSHOP :
 DESCRIPTION
 I opened git bash terminal and cloned the repository using `git clone https://github.com/khris-UI/UYO-ZK-WORKSHOP`
@@ -8,12 +8,14 @@ run the program `leo run main 3u32 5u32 --network testnet`
 this returns 8u32 which is the sum of 3u32 and 5u32.
 To deploy, use `leo deploy`
 Note, before deployment go to the .env file and change the PRIVATE_KEY to your personal private key
+
 TRANSACTION ID = at1r3jjjfp4vfk65tj006wqqy7kkfv8kzz4j0vulup2cm89z86meuyscmgjc8
 
 ### SECOND WORKSHOP: 
 DESCRIPTION
-Using the leo run main 3u32 2u32 command i was able to create my main.aleo file inside the simple token  hen i copied the code in the main.aleo and used it to deploy on my visual studio code terminal
-transaction id=at15ry97mljj6n0qzqk8aaffqkf929gwq74ppv96uf98m7z3pm77qpsuxa60e
+Using the leo run main 3u32 2u32 command i was able to create my main.aleo file inside the simple token  Then i copied the code in the main.aleo and used it to deploy on my visual studio code terminal
+
+TRANSSACTION ID=at15ry97mljj6n0qzqk8aaffqkf929gwq74ppv96uf98m7z3pm77qpsuxa60e
 
 ### THIRD WORKSHOP:
 DESCRIPTION
@@ -116,8 +118,5 @@ combine_harsh_owner_reciever <type_your_adress>
 
  TRANSACTION ID=at15ry97mljj6n0qzqk8aaffqkf929gwq74ppv96uf98m7z3pm77qpsuxa60e
 
-# description 
-
-
-# preview 
+# PREVIEW
 ![work](https://github.com/user-attachments/assets/cda6713c-52dd-4766-933a-def100438779)
